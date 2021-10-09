@@ -1,0 +1,9 @@
+.scroll-to-top{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+}
+.scroll-to-top i{
+    font-size: 35px;
+}

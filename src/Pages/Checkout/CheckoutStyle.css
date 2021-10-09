@@ -1,0 +1,25 @@
+.ghe{
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 15px;
+   @apply bg-gray-300
+}
+
+
+.gheDaDat{
+    @apply bg-red-500 !important;
+  
+}
+
+.gheDangDat{
+  
+    @apply bg-green-500 !important;
+}
+
+.vip{
+    
+    @apply bg-yellow-500
+    
+}

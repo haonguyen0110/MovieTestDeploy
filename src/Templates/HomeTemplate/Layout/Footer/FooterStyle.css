@@ -1,0 +1,19 @@
+footer{
+    background-color: black;
+    background-position: center;
+    margin-bottom: -1rem;
+    padding: 1rem;
+  }
+  
+  .ft__logo{
+    align-items: center;
+  }
+
+  .ft__right ul li{
+    display: inline;
+  
+  }
+
+  .ft__bottom ul li{
+    display: inline;
+  }

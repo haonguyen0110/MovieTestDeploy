@@ -1,0 +1,19 @@
+.sub{
+    height: 300px;
+    background-color: #1fd1f915;
+    background-image: linear-gradient(315deg, #1fd1f9de 0%, #b421feb7 74%), url('../../../Assets/rap/newslater-bg01.jpg');
+    border-radius: 20px;
+    width: 100%;
+    align-items: center;
+    transform: translateY(-150px);
+}
+
+.sub__input{
+    height: 50px;
+    padding-right: 200px;
+    color: #99abe2;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+
+    padding-left: 20px;
+    background: transparent
+}

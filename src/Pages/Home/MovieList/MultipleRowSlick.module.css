@@ -1,0 +1,20 @@
+.slick-prev:before, .slick-next:before {
+  
+    color: gray !important;
+    font-size: 3rem !important;
+}
+
+
+.width-item {
+    width: 100%  !important;
+}
+
+.active_Movie {
+    background-image:  linear-gradient(to right,#fbbd61,#ec7532)!important;
+    color: white !important;
+}
+
+
+.none_active_Movie {
+    @apply bg-white text-black
+}
